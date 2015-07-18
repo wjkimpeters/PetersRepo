@@ -1,5 +1,6 @@
 /*
  * ClassC.hpp
+// comment for class C
  *
  *  Created on: Jul 18, 2015
  *      Author: williampeters
