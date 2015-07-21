@@ -5,6 +5,8 @@
  *      Author: williampeters
  */
 
+// updated classE
+
 #ifndef CLASSE_HPP_
 #define CLASSE_HPP_
 
