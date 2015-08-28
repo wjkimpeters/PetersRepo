@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+   std::cout << "Happy Friday" << std::endl;
 	std::cout << "Hello Bill" << std::endl;
 	std::shared_ptr<int> lcIntSharedPtr(new int);
 	*lcIntSharedPtr = 10;
